@@ -1,3 +1,5 @@
+![zymr8_steps_the_mobile_app_dev_lifecycle_cover](https://user-images.githubusercontent.com/79736830/126167585-ae28ef65-f4aa-4209-a9de-a7bf278b784c.jpg)
+
 ## Hi there ✌🏻, I'm Umar Khabiliy 👋🏻
 
 - 📱 I’m currently working on mobile sphere ...
