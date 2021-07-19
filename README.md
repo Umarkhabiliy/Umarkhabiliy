@@ -8,11 +8,11 @@
 - 💬 Ask me about all of mobile devolepment and how monetization mobile app ...
 - 🇺🇿 Fun fact: Innovation is a clash of science and art in one place  ...
  
- <img align="left" alt="Visual Studio Code" width="30px" src="https://e7.pngegg.com/pngimages/190/711/png-clipart-microsoft-visual-studio-entity-framework-microsoft-developer-network-asp-net-microsoft-purple-angle-thumbnail.png"/>
-  <img align="left" alt="Visual Studio Code" width="30px" src="https://image.pngaaa.com/955/5042955-middle.png"/>
+ <img align="left" alt="Visual Studio Code" width="30px" src="https://w7.pngwing.com/pngs/938/981/png-transparent-round-purple-logo-microsoft-visual-studio-visual-studio-code-computer-icons-team-foundation-server-studio-logo-purple-text-violet.png"/>
+  <img align="left" alt="Visual Studio Code" width="30px" src="https://www.hannatronsen.com/static/Media/badges/flutter.png"/>
   <img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/>
  <img align="left" alt="Visual Studio Code" width="30px" src="https://miro.medium.com/max/1138/1*6-G_o5PZSzppyfdLTbFu-A.png"/>
- <img align="left" alt="Visual Studio Code" width="30px" src="https://w7.pngwing.com/pngs/145/694/png-transparent-python-django-scikit-learn-javascript-programming-language-support-machine-angle-text-logo-thumbnail.png"/>
-  <img align="left" alt="Visual Studio Code" width="30px" src="https://banner2.cleanpng.com/20180805/hho/kisspng-django-python-computer-icons-logo-portable-network-django-python-recruitment-task-1-5b6748f3586dc6.0530431515334955393622.jpg"/>
-   <img align="left" alt="Visual Studio Code" width="30px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png"/>
-    <img align="left" alt="Visual Studio Code" width="30px" src="https://mpng.subpng.com/20180625/vaa/kisspng-android-studio-mobile-app-development-studio-logo-5b30df8d235306.2910428315299296131447.jpg"/>
+ <img align="left" alt="Visual Studio Code" width="30px" src="https://www.marinedatascience.co/img/software/logo_python.png"/>
+  <img align="left" alt="Visual Studio Code" width="30px" src="https://w7.pngwing.com/pngs/246/205/png-transparent-computer-icons-django-django-angle-text-logo.png"/>
+   <img align="left" alt="Visual Studio Code" width="30px" src="https://oauth.net/images/code/c.png"/>
+   
