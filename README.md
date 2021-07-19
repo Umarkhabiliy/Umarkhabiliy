@@ -8,8 +8,8 @@
 - 💬 Ask me about all of mobile devolepment and how monetization mobile app ...
 - 🇺🇿 Fun fact: Innovation is a clash of science and art in one place  ...
  
- <img align="left" alt="Visual Studio Code" width="30px" src="https://w7.pngwing.com/pngs/938/981/png-transparent-round-purple-logo-microsoft-visual-studio-visual-studio-code-computer-icons-team-foundation-server-studio-logo-purple-text-violet.png"/>
-  <img align="left" alt="Visual Studio Code" width="30px" src="https://www.hannatronsen.com/static/Media/badges/flutter.png"/>
+
+  <img align="left" alt="Visual Studio Code" width="40px" src="https://www.hannatronsen.com/static/Media/badges/flutter.png"/>
   <img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/>
  <img align="left" alt="Visual Studio Code" width="30px" src="https://miro.medium.com/max/1138/1*6-G_o5PZSzppyfdLTbFu-A.png"/>
  <img align="left" alt="Visual Studio Code" width="30px" src="https://www.marinedatascience.co/img/software/logo_python.png"/>
