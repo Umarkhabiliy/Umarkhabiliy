@@ -1,4 +1,4 @@
-![zymr8_steps_the_mobile_app_dev_lifecycle_cover](https://user-images.githubusercontent.com/79736830/126167585-ae28ef65-f4aa-4209-a9de-a7bf278b784c.jpg)
+<a href="#"><img  width="60%" height="auto" src="https://user-images.githubusercontent.com/79736830/126167585-ae28ef65-f4aa-4209-a9de-a7bf278b784c.jpg" align="center" height="100px"/></a>
 
 ## Hi there ✌🏻, I'm Umar Khabiliy 👋🏻
 
@@ -13,12 +13,6 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" width="100" height="30"/> </a> 
-    <a href="https://dart.dev/" target="_blank"> <img src="https://download.logo.wine/logo/Dart_(programming_language)/Dart_(programming_language)-Logo.wine.png" width="100" height="60"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
   <img align="left" alt="Visual Studio Code" width="40px" src="https://www.hannatronsen.com/static/Media/badges/flutter.png"/>
   <img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/>
@@ -56,6 +50,17 @@
 
 ## Connect with me:
 <p align="left">
- 
+ <a href = "https://www.linkedin.com/in/umar-khabiliy-a55918200/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://t.me/umarkhabiliy"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="45"/></a>
+<!-- <a href = "https://www.instagram.com/rukhiddinov_21/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
+<!--<a href = "https://www.youtube.com/channel/UCzgO5BziWSWgJdjIxl4Qauw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
+
+</p>
+
+## ❤️ Views and Followers
+<a href="https://github.com/rukhiddinov2102/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=rukhiddinov2102">
+</a>
+<a href="https://github.com/Umarkhabiliy?tab=followers"><img src="https://img.shields.io/github/followers/Umarkhabiliy?label=Followers&style=social" alt="GitHub Badge"></a>
 
    
