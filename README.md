@@ -51,7 +51,8 @@
 ## Connect with me:
 <p align="left">
  <a href = "https://www.linkedin.com/in/umar-khabiliy-a55918200/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://t.me/umarkhabiliy"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="45"/></a>
+ <a href = "https://mail.google.com/mail/u/0/#inbox/"><img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width='65'/></a>
+ <a href = "https://t.me/umarkhabiliy"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="45"/></a>
 <!-- <a href = "https://www.instagram.com/rukhiddinov_21/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 <!--<a href = "https://www.youtube.com/channel/UCzgO5BziWSWgJdjIxl4Qauw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
