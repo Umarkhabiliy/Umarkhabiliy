@@ -3,7 +3,7 @@
 ## Hi there ✌🏻, I'm Umar Khabiliy 👋🏻
 
 - 📱 I’m currently working on mobile sphere ...
-- 🧑🏻‍💻 I’m currently learning flutter & swift ...
+- 🧑🏻‍💻 I’m currently learning flutter & NodeJS ...
 - 🏢 I’m looking to collaborate on with big ambition companies ...
 - 💬 Ask me about all of mobile devolepment and how monetization mobile app ...
 - 👨‍💻 All of my projects are available at [My Blog](https://t.me/TashkentIT)
@@ -16,9 +16,9 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
   <img align="left" alt="Visual Studio Code" width="40px" src="https://www.hannatronsen.com/static/Media/badges/flutter.png"/>
   <img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/>
- <img align="left" alt="Visual Studio Code" width="30px" src="https://miro.medium.com/max/1138/1*6-G_o5PZSzppyfdLTbFu-A.png"/>
+<!--  <img align="left" alt="Visual Studio Code" width="30px" src="https://miro.medium.com/max/1138/1*6-G_o5PZSzppyfdLTbFu-A.png"/> -->
  <img align="left" alt="Visual Studio Code" width="30px" src="https://www.marinedatascience.co/img/software/logo_python.png"/>
-  <img align="left" alt="Visual Studio Code" width="30px" src="https://w7.pngwing.com/pngs/246/205/png-transparent-computer-icons-django-django-angle-text-logo.png"/>
+<!--   <img align="left" alt="Visual Studio Code" width="30px" src="https://w7.pngwing.com/pngs/246/205/png-transparent-computer-icons-django-django-angle-text-logo.png"/> -->
    <img align="left" alt="Visual Studio Code" width="30px" src="https://oauth.net/images/code/c.png"/>
 </p>
 
@@ -59,9 +59,9 @@
 </p>
 
 ## ❤️ Views and Followers
-<a href="https://github.com/rukhiddinov2102/github-profile-views-counter">
+<!-- <a href="https://github.com/rukhiddinov2102/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rukhiddinov2102">
-</a>
+</a> -->
 <a href="https://github.com/Umarkhabiliy?tab=followers"><img src="https://img.shields.io/github/followers/Umarkhabiliy?label=Followers&style=social" alt="GitHub Badge"></a>
 
    
